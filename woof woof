@@ -1,0 +1,6 @@
+while true:
+  print('Can you hello world for me please')
+  Hello = input()
+  if Hello ='Hello world'
+     break
+print('Thank you and bye!')
